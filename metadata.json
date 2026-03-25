@@ -1,0 +1,5 @@
+{
+  "name": "SlidesOCR",
+  "description": "Professional presentation digitizer. Extract text from PDFs, PPTX, and images with high accuracy.",
+  "requestFramePermissions": []
+}
